@@ -1,6 +1,5 @@
 # This is my first Javascript project.
 # Features
-- Play against another player (two-player mode).
 - Simple and intuitive interface.
 - Keeps track of the game state (win, draw)
 # Installation

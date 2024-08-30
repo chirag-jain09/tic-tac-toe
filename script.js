@@ -86,6 +86,7 @@ const resetGame = () => {
     turn0 = false;
     enableBoxes();
     msgContainer.classList.add("hide");
+    count = 0;
 
 }
 
